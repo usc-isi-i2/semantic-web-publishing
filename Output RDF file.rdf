@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://web-app.usc.edu/soc/syllabus/20133/29980.pdf">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Course"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">CSCI 548 Information Integration on the Web</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/integration/courses/csci599_2011/2011-geo-integration-syllabus-v3.pdf">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Course"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">CSCI 599 Geospatial Data Integration</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/integration/people/knoblock/index.html">
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Best Paper Award, Canadian Artificial Intelligence Conference, 1994.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Best Paper Award, IEEE/WIC International Conference on Web Intelligence (WI 2003).</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Best Research Paper Award, International Semantic Web Conference (ISWC), 2012.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Class Scholar, Syracuse University, 1984.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Distinguished Scientist, Association of Computing Machinery (ACM), 2008.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Fellow, Association for the Advancement of Artificial Intelligence (AAAI), 2004.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Graduate Fellowship, Air Force Laboratory, 1987-1991.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Lower Division Honors, Syracuse University, 1982.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Meritorious Service Award, Information Sciences Institute, 1999.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Regents Scholarship, New York State, 1980-1984.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Teaching Fellowship, Information Sciences Institute, Fall, 1996.</awardOrHonorFor>
+	<awardOrHonorFor xmlns="http://vivoweb.org/ontology/core#">Upper Division Honors, Syracuse University, 1984.</awardOrHonorFor>
+	<hasTeacherRole xmlns="http://vivoweb.org/ontology/core#">Research Professor</hasTeacherRole>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/integration/people/knoblock/projects/prj_data_integration.html"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/integration/people/knoblock/projects/prj_info_extraction.html"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/integration/people/knoblock/projects/prj_infofuse.html"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/integration/people/knoblock/projects/prj_mashup_construct.html"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/integration/people/knoblock/projects/prj_source_modeling.html"/>
+	<positionInOrganization xmlns="http://vivoweb.org/ontology/core#">Director of Information Integration Group</positionInOrganization>
+	<recentCourseTaught xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://web-app.usc.edu/soc/syllabus/20133/29980.pdf"/>
+	<recentCourseTaught xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/integration/courses/csci599_2011/2011-geo-integration-syllabus-v3.pdf"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/craig.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Craig Knoblock</name>
+	<organization xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://www.usc.edu"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/integration/people/knoblock/projects/prj_data_integration.html">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Data Integration</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/integration/people/knoblock/projects/prj_info_extraction.html">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Information Extraction</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/integration/people/knoblock/projects/prj_infofuse.html">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Geospatial Data Integration</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/integration/people/knoblock/projects/prj_mashup_construct.html">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Mashup Construction</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/integration/people/knoblock/projects/prj_source_modeling.html">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Semantic Modeling of Information Sources</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.usc.edu">
+	<name xmlns="http://xmlns.com/foaf/0.1/">University of Southern California</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www-scf.usc.edu/~taheriya/index.htm">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Post Doctoral</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/mohsen.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Mohsen Taheriyan</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/pub/jianliang-chen/57/aa/1aa">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/students/jianliang.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Jianliang Chen</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www-scf.usc.edu/~wubo/">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/bo.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Bo Wu</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.cmu.edu/index.shtml">
+	<name xmlns="http://xmlns.com/foaf/0.1/">Carnegie Mellon University</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseAquaflow">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Data Preparation for Semantic Workflows (2011)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseCSC">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">CSC: Criticality-Sensitive Coodination (2005-2009)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseCommanderCoordinator">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Commander's Coordinator: Human in the Loop Planning and Scheduling (2007)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseCompass">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">COMPASS: Plan Analysis using Stochastic Simulation (2011)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseDEALMAKER">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">DEALMAKER: End-User Programming of Rules to Select Purchase Contracts (1998-2000)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseGambit">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">GAMBIT: Geospatial Analysis of Motion-Based Intelligence and Tracking (2011)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseLandroids">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">LANdroids: Distributed Control Algorithms (2009)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseLivingClassroom">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Living Classroom (2010)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseSNAP">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">SNAP: Schedules Negotiated by Agent-based Planners (2000-2005)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseSeavak">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Enriching Sensor Data with Context Information for Use in 3D Game Environments (2011)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseVizPattern">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">VizPattern: Visual Analytics Tools (2008-2010)</name>
+	<name xmlns="http://xmlns.com/foaf/0.1/">VizScript: Visualization Tools for Understanding Complex Systems (2007-2010)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/#collapseVizScript">
+	<rdf:type rdf:resource="http://vivoweb.org/ontology/core#Project"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">VizScript: Visualization Tools for Understanding Complex Systems (2007-2010)</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.isi.edu/~szekely/">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Post Doctoral</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.cmu.edu/index.shtml"/>
+	<hasTeacherRole xmlns="http://vivoweb.org/ontology/core#">Research Assistant Professor</hasTeacherRole>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseAquaflow"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseCSC"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseCommanderCoordinator"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseCompass"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseDEALMAKER"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseGambit"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseLandroids"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseLivingClassroom"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseSNAP"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseSeavak"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseVizPattern"/>
+	<partOf xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.isi.edu/~szekely/#collapseVizScript"/>
+	<positionInOrganization xmlns="http://vivoweb.org/ontology/core#">Project Leader of Information Integration Group</positionInOrganization>
+	<recentCourseTaught xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://web-app.usc.edu/soc/syllabus/20133/29980.pdf"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/pedro.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Pedro Szekely</name>
+	<organization xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://www.usc.edu"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/pub/hao-zhang/41/39a/74b">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/students/hao1.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Hao Zhang</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/pub/vineet-gadodia/63/138/787">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#"></degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/students/VG.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Vineet Gadodia</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://dl.dropboxusercontent.com/u/992427/public_html/index.html">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Post Doctoral</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/yaoyi.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Yao-Yi Chiang</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/pub/mohammad-shaarif-zia/66/636/306">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/students/shaarif.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Shaarif Zia</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/in/shrikanthn">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/Shrikanth1.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Shrikanth Narayanan</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/in/shraddhadeshmukh">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/Shraddha.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Shraddha Deshmukh</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/pub/akshay-dani/9/549/683">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/akshay.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Akshay Ramesh Dani</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/pub/animesh-manglik/14/6b2/97b">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/ani.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Animesh Manglik</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/in/yutingliu1">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/Liu.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Yuting Liu</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/pub/ying-zhang/53/545/b56">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/Ying1.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Ying Zhang</name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.linkedin.com/pub/ayush-jaiswal/5b/589/29a">
+	<degreeEarned xmlns="http://vivoweb.org/ontology/core#">Masters</degreeEarned>
+	<degreeOfferedBy xmlns="http://vivoweb.org/ontology/core#" rdf:resource="http://www.usc.edu"/>
+	<majorField xmlns="http://vivoweb.org/ontology/core#">Computer Science</majorField>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/person"/>
+	<image xmlns="http://xmlns.com/foaf/0.1/" rdf:resource="http://isi.edu/integration/karma/assets/img/staff/Ayush.jpg"/>
+	<name xmlns="http://xmlns.com/foaf/0.1/">Ayush Jaiswal</name>
+</rdf:Description>
+
+</rdf:RDF>

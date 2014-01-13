@@ -1,0 +1,15 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www.linkedin.com/pub/jianliang-chen/57/aa/1aa",
+		"foaf:name": "Jianliang Chen",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/students/jianliang.jpg"},
+		
+		"hasDegree":"Masters",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.usc.edu", 
+							 "foaf:name":"University of Southern California"
+							   }
+}

@@ -1,0 +1,15 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://dl.dropboxusercontent.com/u/992427/public_html/index.html",
+		"foaf:name": "Yao-Yi Chiang",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/staff/yaoyi.jpg"},
+		
+		"hasDegree":"Post Doctoral",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.usc.edu", 
+							 "foaf:name":"University of Southern California"
+							   }
+}

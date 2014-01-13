@@ -1,0 +1,65 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www.isi.edu/integration/people/knoblock/index.html",
+		"foaf:name": "Craig Knoblock",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/staff/craig.jpg"},
+		
+		"hasTeachingRole":"Research Professor",
+		"foaf:organization":{  	"@id":"http://www.usc.edu", 
+								"foaf:name":"University of Southern California"
+							   },
+		"jobTitle":"Director of Information Integration Group",
+		"honorsAndAwards":[
+							"Best Research Paper Award, International Semantic Web Conference (ISWC), 2012.",
+							"Distinguished Scientist, Association of Computing Machinery (ACM), 2008.",
+							"Fellow, Association for the Advancement of Artificial Intelligence (AAAI), 2004.",
+							"Best Paper Award, IEEE/WIC International Conference on Web Intelligence (WI 2003).",
+							"Meritorious Service Award, Information Sciences Institute, 1999.",
+							"Teaching Fellowship, Information Sciences Institute, Fall, 1996.",
+							"Best Paper Award, Canadian Artificial Intelligence Conference, 1994.",
+							"Graduate Fellowship, Air Force Laboratory, 1987-1991.",
+							"Class Scholar, Syracuse University, 1984.",
+							"Upper Division Honors, Syracuse University, 1984.",
+							"Lower Division Honors, Syracuse University, 1982.",
+							"Regents Scholarship, New York State, 1980-1984."
+		],
+		"teachCourses":[ {	
+							"@id":"http://web-app.usc.edu/soc/syllabus/20133/29980.pdf",
+							"foaf:name":"CSCI 548 Information Integration on the Web",
+							"@type":"vivo:Course"	
+							},
+						{
+							"@id":"http://www.isi.edu/integration/courses/csci599_2011/2011-geo-integration-syllabus-v3.pdf",
+							"foaf:name":"CSCI 599 Geospatial Data Integration",
+							"@type":"vivo:Course"
+						}	
+						
+		],
+		"projects":[ {
+						"@id":"http://www.isi.edu/integration/people/knoblock/projects/prj_source_modeling.html",
+						"foaf:name":"Semantic Modeling of Information Sources",
+						"@type":"vivo:Project"
+					 },
+					 {
+						"@id":"http://www.isi.edu/integration/people/knoblock/projects/prj_data_integration.html",
+						"foaf:name":"Data Integration",
+						"@type":"vivo:Project"
+					 },
+					 {
+						"@id":"http://www.isi.edu/integration/people/knoblock/projects/prj_infofuse.html",
+						"foaf:name":"Geospatial Data Integration",
+						"@type":"vivo:Project"
+					 },
+					 {
+						"@id":"http://www.isi.edu/integration/people/knoblock/projects/prj_mashup_construct.html",
+						"foaf:name":"Mashup Construction",
+						"@type":"vivo:Project"
+					 },
+					 {
+						"@id":"http://www.isi.edu/integration/people/knoblock/projects/prj_info_extraction.html",
+						"foaf:name":"Information Extraction",
+						"@type":"vivo:Project"
+					 }
+		]
+}

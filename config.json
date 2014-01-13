@@ -2,25 +2,22 @@
   "Config":
   [		{
 			"Url_List":[
-				{"Url" : "/Team/Ambite.json"},
-				{"Url" : "/Team/BoWu.json"},
-				{"Url" : "/Team/CraigKnoblock.json"},
-				{"Url" : "/Team/Maria.json"},
-				{"Url" : "/Team/Mohsen.json"},
-				{"Url" : "/Team/Shubham.json"},
-				{"Url" : "/Team/Vineet.json"},
-				{"Url" : "/Team/Hao1.json"},
-				{"Url" : "/Team/Jianliang.json"},
-				{"Url" : "/Team/Pedro.json"},
-				{"Url" : "/Team/Yaoyi.json"},
-				{"Url" : "/Team/Shaarif.json"},
-				{"Url" : "/Team/Liu.json"},
-				{"Url" : "/Team/Shraddha.json"},
-				{"Url" : "/Team/Shrikanth.json"},
-				{"Url" : "/Team/Ayush.json"},
-				{"Url" : "/Team/Ying.json"},
-				{"Url" : "/Team/Animesh.json"},
-				{"Url" : "/Team/Akshay.json"}
+				{"Url" : "/Sem_Web/Team/CraigKnoblock.json"},
+				{"Url" : "/Sem_Web/Team/Pedro.json"},
+				{"Url" : "/Sem_Web/Team/BoWu.json"},
+				{"Url" : "/Sem_Web/Team/Mohsen.json"},
+				{"Url" : "/Sem_Web/Team/Vineet.json"},
+				{"Url" : "/Sem_Web/Team/Hao1.json"},
+				{"Url" : "/Sem_Web/Team/Jianliang.json"},
+				{"Url" : "/Sem_Web/Team/Yaoyi.json"},
+				{"Url" : "/Sem_Web/Team/Shaarif.json"},
+				{"Url" : "/Sem_Web/Team/Liu.json"},
+				{"Url" : "/Sem_Web/Team/Shraddha.json"},
+				{"Url" : "/Sem_Web/Team/Shrikanth.json"},
+				{"Url" : "/Sem_Web/Team/Ayush.json"},
+				{"Url" : "/Sem_Web/Team/Ying.json"},
+				{"Url" : "/Sem_Web/Team/Animesh.json"},
+				{"Url" : "/Sem_Web/Team/Akshay.json"}
 				]
 	  },
 	  {

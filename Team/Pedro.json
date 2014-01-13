@@ -1,0 +1,94 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www.isi.edu/~szekely/",
+		"foaf:name": "Pedro Szekely",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/staff/pedro.jpg"},
+		
+		"hasDegree":"Post Doctoral",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.cmu.edu/index.shtml", 
+							 "foaf:name":"Carnegie Mellon University"
+							   },
+							   
+		"hasTeachingRole":"Research Assistant Professor",
+		"foaf:organization":{  	"@id":"http://www.usc.edu", 
+								"foaf:name":"University of Southern California"
+							
+							   },
+		"jobTitle":"Project Leader of Information Integration Group",
+		"projects":[ {	
+						"@id":"http://www.isi.edu/~szekely/#collapseAquaflow",
+						"foaf:name":"Data Preparation for Semantic Workflows (2011)",
+						"@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseGambit",
+						 "foaf:name":"GAMBIT: Geospatial Analysis of Motion-Based Intelligence and Tracking (2011)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseSeavak",
+						 "foaf:name":"Enriching Sensor Data with Context Information for Use in 3D Game Environments (2011)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseCompass",
+						 "foaf:name":"COMPASS: Plan Analysis using Stochastic Simulation (2011)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseVizScript",
+						 "foaf:name":"VizScript: Visualization Tools for Understanding Complex Systems (2007-2010)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseVizPattern",
+						 "foaf:name":"VizScript: Visualization Tools for Understanding Complex Systems (2007-2010)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseVizPattern",
+						 "foaf:name":"VizPattern: Visual Analytics Tools (2008-2010)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseLivingClassroom",
+						 "foaf:name":"Living Classroom (2010)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseCSC",
+						 "foaf:name":"CSC: Criticality-Sensitive Coodination (2005-2009)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseLandroids",
+						 "foaf:name":"LANdroids: Distributed Control Algorithms (2009)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseCommanderCoordinator",
+						 "foaf:name":"Commander's Coordinator: Human in the Loop Planning and Scheduling (2007)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseSNAP",
+						 "foaf:name":"SNAP: Schedules Negotiated by Agent-based Planners (2000-2005)",
+						 "@type":"vivo:Project"
+					 },
+					 {
+						 "@id":"http://www.isi.edu/~szekely/#collapseDEALMAKER",
+						 "foaf:name":"DEALMAKER: End-User Programming of Rules to Select Purchase Contracts (1998-2000)",
+						 "@type":"vivo:Project"
+					 }
+					 
+					],
+		"teachCourses": {
+							"@id":"http://web-app.usc.edu/soc/syllabus/20133/29980.pdf",
+							"foaf:name":"CSCI 548 Information Integration on the Web",
+							"@type":"vivo:Course"	
+						}
+}

@@ -1,0 +1,15 @@
+{
+	"@context":
+		{	
+			"foaf":"http://xmlns.com/foaf/0.1/",	
+			"vivo":	"http://vivoweb.org/ontology/core#",	
+			"hasDegree":"http://vivoweb.org/ontology/core#degreeEarned",
+			"degreeMajor":"http://vivoweb.org/ontology/core#majorField",
+			"degreeOfferedBy":"http://vivoweb.org/ontology/core#degreeOfferedBy",
+			"jobTitle":"http://vivoweb.org/ontology/core#positionInOrganization",
+			"hasTeachingRole":"http://vivoweb.org/ontology/core#hasTeacherRole",
+			"teachCourses":"http://vivoweb.org/ontology/core#recentCourseTaught",
+			"honorsAndAwards":"http://vivoweb.org/ontology/core#awardOrHonorFor",
+			"projects":"http://vivoweb.org/ontology/core#partOf"
+		}
+}

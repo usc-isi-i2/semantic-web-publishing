@@ -1,0 +1,15 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www-scf.usc.edu/~wubo/",
+		"foaf:name": "Bo Wu",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/staff/bo.jpg"},
+		
+		"hasDegree":"Masters",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.usc.edu", 
+							 "foaf:name":"University of Southern California"
+							   }
+}

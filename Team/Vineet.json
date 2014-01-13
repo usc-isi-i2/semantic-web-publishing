@@ -1,0 +1,15 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www.linkedin.com/pub/vineet-gadodia/63/138/787",
+		"foaf:name": "Vineet Gadodia",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/students/VG.jpg"},
+		
+		"hasDegree":"",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.usc.edu", 
+							 "foaf:name":"University of Southern California"
+							   }
+}

@@ -1,0 +1,15 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www.linkedin.com/pub/ayush-jaiswal/5b/589/29a",
+		"foaf:name": "Ayush Jaiswal",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/staff/Ayush.jpg"},
+		
+		"hasDegree":"Masters",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.usc.edu", 
+							 "foaf:name":"University of Southern California"
+							   }
+}

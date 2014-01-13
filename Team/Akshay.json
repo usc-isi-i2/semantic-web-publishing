@@ -1,0 +1,15 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www.linkedin.com/pub/akshay-dani/9/549/683",
+		"foaf:name": "Akshay Ramesh Dani",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/staff/akshay.jpg"},
+		
+		"hasDegree":"Masters",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.usc.edu", 
+							 "foaf:name":"University of Southern California"
+							   }
+}

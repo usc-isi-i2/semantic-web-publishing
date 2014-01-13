@@ -1,0 +1,15 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www.linkedin.com/pub/mohammad-shaarif-zia/66/636/306",
+		"foaf:name": "Shaarif Zia",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/students/shaarif.jpg"},
+		
+		"hasDegree":"Masters",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.usc.edu", 
+							 "foaf:name":"University of Southern California"
+							   }
+}

@@ -1,0 +1,15 @@
+{
+		"@context":"http://localhost/Sem_Web/Context/vivo_context.json",
+		"@type":"foaf:person",
+		"@id":"http://www-scf.usc.edu/~taheriya/index.htm",
+		"foaf:name": "Mohsen Taheriyan",
+		"foaf:image": {"@id":"http://isi.edu/integration/karma/assets/img/staff/mohsen.jpg"},
+		
+		"hasDegree":"Post Doctoral",
+		
+		"degreeMajor":"Computer Science",
+		 
+		"degreeOfferedBy":{  "@id":"http://www.usc.edu", 
+							 "foaf:name":"University of Southern California"
+							   }
+}
